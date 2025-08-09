@@ -1,0 +1,16 @@
+Average PnL by sentiment:
+classification
+Extreme Greed    25.418772
+Fear             50.047622
+Greed            87.894859
+Neutral          22.229713
+Name: Closed PnL, dtype: float64
+
+Average trade size by sentiment:
+classification
+Extreme Greed    48736.443323
+Fear              3071.523165
+Greed             2232.117751
+Neutral           1967.302964
+Name: Size Tokens, dtype: float64
+
